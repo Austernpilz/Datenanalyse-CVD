@@ -26,9 +26,9 @@ The Possibilities are:
   + concluding tests and visualization
 
 
-# Entstehung
+# Origin
 
-Ich arbeite seit Winter 2020 im Gesundheitsamt Da-Di und lerne seit Frühling 2021 ein bisschen über das Feld Data Science und die Programmiersprache Python. Gemeinsam mit einer Freundin haben wir zusammen einen Machine Learning Kurs für Python absolviert und da ich das ganze mal praktisch anwenden wollte habe ich dieses Jupyter Notebook geschrieben in der Hoffnung die Daten unseres Gesundheitsamtes in der aktuellen Pandemie einmal zu analysieren. Das ganze ist eher als Einstieg gedacht und das kennenlernen von Daten-Analysen, am Ende war das Schwierigste die Daten Beschaffung, fiktive Bereinigung und Umwandlung. Das eigentliche ploten war am Ende "eher" einfach.
+Hi, I'm working since Winter 2020 in the public health department of Darmstadt-Dieburg and learning about Python and Data Science since late Spring 2021. Together with a friend of mine, we did a course on machine learning for python. Because I wanted to use some of that, I wrote this Jupyter Notebook in the hopes of using it on the real world data of the current pandemic within our area. So this is more or less a tiny exploration too  Das ganze ist eher als Einstieg gedacht und das kennenlernen von Daten-Analysen, am Ende war das Schwierigste die Daten Beschaffung, fiktive Bereinigung und Umwandlung. Das eigentliche ploten war am Ende "eher" einfach.
 
 Ich interessiere mich schon länger für verschiedene Digitale Themen und habe auch am Anfang meiner 20er mal ein Mathematik und Informatik Studium nicht beendet. Daher hatte ich etwas Vorkenntnisse und theoretisches Verständnis. Es ist aber am Ende auch mein erstes praktisches Code-Projekt, daher sind mit Sicherheit einige Performance Verbesserungen noch rauszuholen.
 

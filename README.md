@@ -56,7 +56,7 @@ https://nbviewer.jupyter.org/github/python-visualization/folium/blob/master/exam
 https://stackoverflow.com/
 
 
-#Dokumentation der Software und Pakete
+# Dokumentation der Software und Pakete
 
 - Python *usedVersion3.8*
 https://www.python.org/doc/

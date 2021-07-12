@@ -25,37 +25,27 @@ The Possibilities are:
   + functions to visualize the data
   + concluding tests and visualization
 
+# Sources and Thankyou
 
-# Origin
+Many thank to Ralph Frankenbach for the feedback and the exchange about my code (see his website for an javascript implication of this code)
 
-Hi, I'm working since Winter 2020 in the public health department of Darmstadt-Dieburg and learning about Python and Data Science since late Spring 2021. Together with a friend of mine, we did a course on machine learning for python. Because I wanted to use some of that, I wrote this Jupyter Notebook in the hopes of using it on the real world data of the current pandemic within our area. So this is more or less a tiny exploration too  Das ganze ist eher als Einstieg gedacht und das kennenlernen von Daten-Analysen, am Ende war das Schwierigste die Daten Beschaffung, fiktive Bereinigung und Umwandlung. Das eigentliche ploten war am Ende "eher" einfach.
-
-Ich interessiere mich schon länger für verschiedene Digitale Themen und habe auch am Anfang meiner 20er mal ein Mathematik und Informatik Studium nicht beendet. Daher hatte ich etwas Vorkenntnisse und theoretisches Verständnis. Es ist aber am Ende auch mein erstes praktisches Code-Projekt, daher sind mit Sicherheit einige Performance Verbesserungen noch rauszuholen.
-
-Mein Testdatensatz besteht aus ca. 40.000 fiktiven Patiententupeln und sind nur aus dem Bereich Darmstadt, d.h. Stadtkreis Darmstadt und Landkreis Darmstadt-Dieburg. Der Datensatz ist ca. 3 mal so groß wie der reale Datensatz gewesen wäre. Leider fand hier im Gesundheitsamt keine Verwendung für den Code statt.
-
-
-# Quellen und Danksagungen
-
-Vielen Dank an Ralph Frankenbach für das Feedback und den Austausch über meinen Code
-
-- erste Inspiration und etwas Code
+- first inspiration and some code
 https://juanitorduz.github.io/germany_plots/
 
-- Datensätze: Geodaten+PLZ-Daten
+- Data: Geodaten+ZIP-Data
 https://www.suche-postleitzahl.org/downloads
 
-- Verständnis des Plug-Ins TimeSliderChoropleth
+- Understanding of the Plug-In TimeSliderChoropleth
 https://nbviewer.jupyter.org/github/python-visualization/folium/blob/master/examples/TimeSliderChoropleth.ipynb
 
-- Verständnis des Plug-Ins HeatMapWithTime
+- Understanding of the Plug-In HeatMapWithTime
 https://nbviewer.jupyter.org/github/python-visualization/folium/blob/master/examples/HeatMapWithTime.ipynb
 
 - Stackoverflow......of course
 https://stackoverflow.com/
 
 
-# Dokumentation der Software und Pakete
+# Documentation of the Software and Packages
 
 - Python *usedVersion3.8*
 https://www.python.org/doc/

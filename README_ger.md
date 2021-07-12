@@ -27,15 +27,6 @@ Die Möglichen Darstellungen sind:
   + Aussicht auf darauf aufbauende Pakete und abschließende Bemerkungen
 
 
-# Entstehung
-
-Ich arbeite seit Winter 2020 im Gesundheitsamt Da-Di und lerne seit Frühling 2021 ein bisschen über das Feld Data Science und die Programmiersprache Python. Gemeinsam mit einer Freundin haben wir zusammen einen Machine Learning Kurs für Python absolviert und da ich das ganze mal praktisch anwenden wollte habe ich dieses Jupyter Notebook geschrieben in der Hoffnung die Daten unseres Gesundheitsamtes in der aktuellen Pandemie einmal zu analysieren. Das ganze ist eher als Einstieg gedacht und das kennenlernen von Daten-Analysen, am Ende war das Schwierigste die Daten Beschaffung, fiktive Bereinigung und Umwandlung. Das eigentliche ploten war am Ende "eher" einfach.
-
-Ich interessiere mich schon länger für verschiedene Digitale Themen und habe auch am Anfang meiner 20er mal ein Mathematik und Informatik Studium nicht beendet. Daher hatte ich etwas Vorkenntnisse und theoretisches Verständnis. Es ist aber am Ende auch mein erstes praktisches Code-Projekt, daher sind mit Sicherheit einige Performance Verbesserungen noch rauszuholen.
-
-Mein Testdatensatz besteht aus ca. 40.000 fiktiven Patiententupeln und sind nur aus dem Bereich Darmstadt, d.h. Stadtkreis Darmstadt und Landkreis Darmstadt-Dieburg. Der Datensatz ist ca. 3 mal so groß wie der reale Datensatz gewesen wäre. Leider fand hier im Gesundheitsamt keine Verwendung für den Code statt.
-
-
 # Quellen und Danksagungen
 
 Vielen Dank an Ralph Frankenbach für das Feedback und den Austausch über meinen Code

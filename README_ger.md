@@ -7,15 +7,15 @@ Die Möglichen Darstellungen sind:
   - einen einfachen Plot eines Tages mit aller aktiven Fällen innerhalb des InfektionsZeitraums (über Matplotlib und Folium)
   - eine Choropleth Darstellung auf einer interaktiven Map über eines Tages mit aller aktiven Fällen innerhalb des InfektionsZeitraums (Folium)
   - eine Chropleth Darstellung mit zeitlichem Verlauf über einen Zeitraum mit aller aktiven Fällen innerhalb des InfektionsZeitraums (Folium)
-  - eine Heatmap Darstellung auf einer interaktiven Map über eines Tages mit aller aktiven Fällen innerhalb des InfektionsZeitraums (Folium)
-  - eine Heatmap Darstellung mit zeitlichem Verlauf über einen Zeitraum mit aller aktiven Fällen innerhalb des InfektionsZeitraums (Folium)
+  *kommt noch* "- eine Heatmap Darstellung auf einer interaktiven Map über eines Tages mit aller aktiven Fällen innerhalb des InfektionsZeitraums (Folium)
+  - eine Heatmap Darstellung mit zeitlichem Verlauf über einen Zeitraum mit aller aktiven Fällen innerhalb des InfektionsZeitraums (Folium)"
 
 
 # Aufbau und Struktur
 
 - Datensätze 
   + Geodaten der PLZ-Gebiete aus Deutschland (shp-Datei)
-  + fiktive Patiententupel bestehend aus Datum, Ort (csv-Datei)
+  + fiktive Patiententupel bestehend aus Datum, Ort (csv-Datei: !!Deutsche csv-Datei, getrennt durch ";" nicht durch ","!!)
   + Zuordnung der PLZ zu Orten und Landkreisen in Deutschland (csv-Datei)
 
 - Codeaufbau (jeweils in einem Abschnitt des Jupyter-Notebooks + Testzeile)

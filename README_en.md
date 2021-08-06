@@ -7,15 +7,15 @@ The Possibilities are:
   - a simple plot to show the outlines of an area with a given day visualizing every active case within an infective period (matplotlib)
   - a Choropleth over an interactive map, visualizing every active case on a given day with every active case within an infective period (Folium)
   - a Choropleth with a time slider over an interactive map, visualizing every active case within a time period and an infective period (Folium)
-  - a Heatmap over an interactive map, visualizing every active case on a given day with every active case within an infective period(Folium)
-  - a Heatmap with a time slider over an interactive map, visualizing every active case within a time period and an infective period (Folium)
+  *still to come* "- a Heatmap over an interactive map, visualizing every active case on a given day with every active case within an infective period(Folium)
+  - a Heatmap with a time slider over an interactive map, visualizing every active case within a time period and an infective period (Folium)"
 
 
 # Code
 
 - Datasets 
   + Geodata of the zip areas in Germany (shp-file)
-  + fictive patient-tuple in the Format of (date, location) (csv-file)
+  + fictive patient-tuple in the Format of (date, location) (csv-file: !!german csv-file, it's seperatet by a ";" instead of ","!!)
   + Data containing all zip codes of Germany tied to city, states and county (csv-file)
 
 - Code-Structure (everything is one section in the notebook)
